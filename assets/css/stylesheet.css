@@ -409,7 +409,7 @@ section {
   transition: 0.3s;
 }
 .skills .icon-box .icon-box:hover h4 a {
-  color: #271db6;
+  color: #202020;
 }
 .skills .icon-box p {
   margin-left: 70px;
@@ -564,7 +564,7 @@ section {
   opacity: 1;
 }
 .codeLanguages .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #271db6;
+  background-color: #202020;
 }
 @media (min-width: 1024px) {
   .codeLanguages {
