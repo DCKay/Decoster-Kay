@@ -20,12 +20,12 @@ body {
 }
 
 a {
-  color: #271db6;
+  color: #202020; /*271db6*/
   text-decoration: none;
 }
 
 a:hover {
-  color: #7288c3;
+  color: #E0E0E0; /*7288c3*/
   text-decoration: none;
 }
 
