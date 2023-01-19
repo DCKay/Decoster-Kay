@@ -2,7 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\js"
+    "\\assets\\css",
+    "\\assets\\vendor\\aos",
+    "\\assets\\vendor\\bootstrap-icons",
+    "\\assets\\vendor\\boxicons",
+    "\\assets\\vendor\\glightbox",
+    "\\assets\\vendor\\isotope-layout",
+    "\\assets\\vendor\\php-email-form",
+    "\\assets\\vendor\\swiper"
   ],
   "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
