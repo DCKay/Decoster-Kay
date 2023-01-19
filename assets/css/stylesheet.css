@@ -114,7 +114,7 @@
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #E0E0E0;
+  color: #6B71C0;
 }
 
 #navbar .navbar-bottom {
@@ -178,7 +178,7 @@
   color: #444444;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #202020;
+  color: #6B71C0;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -204,7 +204,7 @@
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #202020;
+  color: #6B71C0;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -349,7 +349,7 @@ section {
 .about .content .icon-box i {
   font-size: 48px;
   float: left;
-  color: #271db6;
+  color: #6B71C0;
 }
 .about .content .icon-box p {
   font-size: 15px;
