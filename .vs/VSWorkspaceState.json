@@ -2,7 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\css",
+    "\\assets\\js",
     "\\assets\\vendor\\aos",
     "\\assets\\vendor\\bootstrap-icons",
     "\\assets\\vendor\\boxicons",
@@ -11,6 +11,6 @@
     "\\assets\\vendor\\php-email-form",
     "\\assets\\vendor\\swiper"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\css\\stylesheet.css",
   "PreviewInSolutionExplorer": false
 }
