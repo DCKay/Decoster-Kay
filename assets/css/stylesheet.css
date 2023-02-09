@@ -601,13 +601,13 @@ section {
   padding: 0;
   list-style: none;
 }
-.dyk .dyk-list li + li {
-  margin-top: 15px;
+.dyk .dyk-list li + li {  
   padding-top: 20px;
 }
 .dyk .dyk-list li {
   background: #fff;
   border-radius: 4px;
+  margin-top: 15px;
   position: relative;
 }
 .dyk .dyk-list .icon-help {
