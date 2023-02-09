@@ -623,7 +623,7 @@ section {
 }
 .dyk .dyk-list p {
   margin-bottom: 0;
-  margin-left: 1.7rem;
+  margin-left: 2rem;
   padding: 10px 0 0 0;
 }
 .dyk .dyk-list h5 {
@@ -631,7 +631,7 @@ section {
     font-weight: 200;
     text-transform: lowercase;
     margin-bottom: 0.5rem;
-    margin-left: 1.7rem;
+    margin-left: 2rem;
     padding-bottom: 0;
     position: relative;
 }
