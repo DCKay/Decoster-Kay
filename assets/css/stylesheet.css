@@ -390,6 +390,7 @@ section {
   margin-bottom: 5px;
   padding: 5px 5px;
   border-radius: 6px;
+  left: 5px;
   background: #fff;
 }
 .skills .icon-box i {
@@ -586,8 +587,9 @@ section {
 # D.Y.K
 --------------------------------------------------------------*/
 .dyk {
-  background: #ebeff8;
-  padding: 60px 0;
+    background: #ebeff8;
+    padding: 60px 0;
+    padding-bottom: 5px;
 }
 /*.dyk .section-title span {
   color: #f1f1f1;
@@ -612,7 +614,7 @@ section {
   font-size: 24px;
   position: absolute;
   right: 0;
-  left: 20px;
+  left: 5px;
   color: #89c0da;
 }
 .dyk .dyk-list .icon-show, .dyk .dyk-list .icon-close {
