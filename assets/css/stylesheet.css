@@ -625,11 +625,11 @@ section {
   margin-bottom: 0;
   padding: 10px 0 0 0;
 }
-.dyl .dyk-list h3 {
-    font-size: 9px;
-    font-weight: 700;
+.dyl .dyk-list h5 {
+    font-size: 5px;
+    font-weight: 100;
     text-transform: lowercase;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     padding-bottom: 0;
     position: relative;
 }
