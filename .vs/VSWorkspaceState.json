@@ -3,14 +3,14 @@
     "",
     "\\assets",
     "\\assets\\img",
-    "\\assets\\img\\codeLanguages",
+    "\\assets\\img\\portfolio",
     "\\assets\\vendor",
     "\\assets\\vendor\\boxicons",
+    "\\assets\\vendor\\boxicons\\css",
+    "\\assets\\vendor\\boxicons\\fonts",
     "\\assets\\vendor\\glightbox",
-    "\\assets\\vendor\\isotope-layout",
-    "\\assets\\vendor\\php-email-form",
-    "\\assets\\vendor\\swiper"
+    "\\assets\\vendor\\glightbox\\js"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\img\\portfolio",
   "PreviewInSolutionExplorer": false
 }
