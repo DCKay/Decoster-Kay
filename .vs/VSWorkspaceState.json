@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\img",
-    "\\assets\\img\\portfolio",
+    "\\assets\\css",
     "\\assets\\vendor",
     "\\assets\\vendor\\boxicons",
     "\\assets\\vendor\\boxicons\\css",
     "\\assets\\vendor\\boxicons\\fonts",
     "\\assets\\vendor\\glightbox",
-    "\\assets\\vendor\\glightbox\\js"
+    "\\assets\\vendor\\glightbox\\js",
+    "\\assets\\vendor\\swiper"
   ],
-  "SelectedNode": "\\assets\\img\\portfolio",
+  "SelectedNode": "\\assets\\css\\stylesheet.css",
   "PreviewInSolutionExplorer": false
 }
