@@ -395,7 +395,7 @@ section {
 }
 .skills .icon-box i {
   float: left;
-  color: #ebeff8;
+  color: #EBEDF8;
   font-size: 20px;
   line-height: 0;
 }
@@ -617,7 +617,7 @@ section {
   position: absolute;
   right: 0;
   left: 5px;
-  color: #ebeff8;
+  color: #EBEDF8;
 }
 .dyk .dyk-list .icon-show, .dyk .dyk-list .icon-close {
   font-size: 24px;
