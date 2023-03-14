@@ -3,14 +3,10 @@
     "",
     "\\assets",
     "\\assets\\css",
-    "\\assets\\vendor",
-    "\\assets\\vendor\\boxicons",
-    "\\assets\\vendor\\boxicons\\css",
-    "\\assets\\vendor\\boxicons\\fonts",
-    "\\assets\\vendor\\glightbox",
-    "\\assets\\vendor\\glightbox\\js",
-    "\\assets\\vendor\\swiper"
+    "\\assets\\img",
+    "\\assets\\img\\portfolio",
+    "\\assets\\vendor"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\assets\\css\\stylesheet.css",
   "PreviewInSolutionExplorer": false
 }
